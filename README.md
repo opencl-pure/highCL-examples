@@ -1,5 +1,5 @@
 # highCL-examples
-This is repo for examples of [highCL](https://github.com/opencl-pure/highCL)
+This is repo for examples of [highCL](https://github.com/opencl-pure/highCL), the examples are tested on android (, termux) and linux  
 # fill_image_fractals
 |                                      |                                |                |                       |
 | :----------------------------------: | :----------------------------: | :------------: | :-------------------: |
