@@ -1,5 +1,7 @@
 # highCL-examples
-This is repo for examples of [highCL](https://github.com/opencl-pure/highCL), the examples are tested on android (, termux) and linux  
+- This is repo for examples of [highCL](https://github.com/opencl-pure/highCL), the examples are tested on android (, termux) and linux,
+- fill_image_fractals load strings from folder kernels and every kernel run on OpenCL, rerult give to folder outputs
+- raylibAndroid work only on rooted device, tested on android 14, big thank to [raylib-go](https://github.com/gen2brain/raylib-go) for graphical enviroment, this package use fill_image_fractals in assets, from there copy to internal memory on android and run, result will show on canvas   
 # fill_image_fractals
 |                                      |                                |                |                       |
 | :----------------------------------: | :----------------------------: | :------------: | :-------------------: |
